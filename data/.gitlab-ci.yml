@@ -1,0 +1,3 @@
+.deploy:
+  variables:
+    NAMESPACE: "default"

@@ -1,0 +1,12 @@
+name: Bob Barker
+age: 99
+address:
+  street: 7800 BEVERLY BLVD
+  city: LOS ANGELES
+  state: CA
+  zip: 90036
+phoneNumbers:
+  - type: mobile
+    number: 3108675309
+  - type: work
+    number: 3235752448
